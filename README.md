@@ -1,1 +1,1 @@
-# HPC_IBM
+Sample Repo for practicing slurm on WSL
